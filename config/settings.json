@@ -21,7 +21,7 @@
     "customCss": ".footer{padding-top: 5px;}",
     "currencySymbol": "£",
     "paymentGateway": "stripe",
-    "databaseConnectionString": "mongodb://127.0.0.1:27017/expresscart",
+    "databaseConnectionString": "mongodb://anupve:virtual.90@cluster0-shard-00-00-wztvx.mongodb.net:27017,cluster0-shard-00-01-wztvx.mongodb.net:27017,cluster0-shard-00-02-wztvx.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority",
     "theme": "Cloth",
     "trackStock": false
 }
